@@ -37,8 +37,10 @@ export default {
                 name: 'src/img/[hash]-[name].[ext]'
             }
         }]
-}
+},
+
     ]
   }
+
 };
 
